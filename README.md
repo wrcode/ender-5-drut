@@ -24,3 +24,10 @@ Configuration files for compilation Marlin-bugfix-2.1.x
   Marlin-bugfix-2.1.x/*
 ```
 
+This folder contains images that i used to help myself to connect everything
+
+```bash
+  Images/*
+```
+
+
